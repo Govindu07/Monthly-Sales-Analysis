@@ -1,4 +1,4 @@
-# 📊 Data Analysis Project
+<h1 align="center">Data Analysis Project</h1>
 
 This project contains data analysis performed using **Python** and **Jupyter Notebooks**.  
 It demonstrates data cleaning, visualization, and exploratory data analysis (EDA).
