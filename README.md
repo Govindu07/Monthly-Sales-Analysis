@@ -1,7 +1,8 @@
 <h1 align="center">Data Analysis Project</h1>
 
-<br><br>This project contains data analysis performed using **Python** and **Jupyter Notebooks**.  
-It demonstrates data cleaning, visualization, and exploratory data analysis (EDA).
+<p>
+This project contains data analysis performed using **Python** and **Jupyter Notebooks**.It demonstrates data cleaning, visualization, and exploratory data analysis (EDA).
+</p>
 
 ---
 
@@ -22,7 +23,7 @@ Data-Analysis-Project/
 ## ⚙️ Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone [<repo-url>](https://github.com/Govindu07/Monthly-Sales-Analysis.git)
    cd Data-Analysis-Project
    ```
 
