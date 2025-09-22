@@ -4,7 +4,7 @@ This project contains data analysis performed using **Python** and **Jupyter Not
 
 ---
 
-## 📂 Folder Structure
+##  **1. Folder Structure**
 ```
 Data-Analysis-Project/
 │── notebooks/       # Jupyter notebooks (.ipynb)
@@ -18,33 +18,33 @@ Data-Analysis-Project/
 
 ---
 
-## ⚙️ Setup & Installation
-1. Clone the repository:
+##  **2. Setup & Installation**
++ Clone the repository:
    ```bash
    git clone https://github.com/Govindu07/Monthly-Sales-Analysis.git
    cd Monthly-Sales-Analysis
    ```
 
-2. Create virtual environment (optional but recommended):
++ Create virtual environment (optional but recommended):
    ```bash
    python -m venv venv
    source venv/bin/activate   # Mac/Linux
    venv\Scripts\activate    # Windows
    ```
 
-3. Install dependencies:
++ Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Open Jupyter Notebook:
++ Open Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
 
 ---
 
-## 🚀 Features
+## 3. Features
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Visualization with Matplotlib & Seaborn
@@ -52,12 +52,13 @@ Data-Analysis-Project/
 
 ---
 
-## 📊 Results
+## 4.Results & Images
 All generated graphs and plots are saved inside the `results/` folder.
+<img width="224" height="336" alt="Screenshot 2025-09-22 230537" src="https://github.com/user-attachments/assets/38bf2334-2456-48fa-b6cb-a4b9085dcbc5" />
 
 ---
 
-## 🔮 Future Enhancements
+## 5. Future Enhancements
 - Add Machine Learning models for predictions
 - Automate reporting with scripts
 - Deploy analysis dashboard
