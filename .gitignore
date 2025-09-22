@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 __pycache__/
-*.csv
-*.xlsx
+#*.csv
+#*.xlsx
 *.pkl
 *.log
 .DS_Store
