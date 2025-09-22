@@ -44,7 +44,7 @@ Data-Analysis-Project/
 
 + Open Jupyter Notebook:
    ```bash
-   jupyter notebook
+  python -m notebook 
    ```
 
 ---
