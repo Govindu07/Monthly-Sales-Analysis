@@ -1,6 +1,11 @@
 <h1 align="center">Data Analysis Project</h1>
 
-This project contains data analysis performed using **Python** and **Jupyter Notebooks**.It demonstrates data cleaning, visualization, and exploratory data analysis (EDA).
+<p>
+This project demonstrates data analysis using Python and Jupyter Notebooks on a sales dataset.
+It includes data cleaning, preprocessing, and handling missing or inconsistent values to prepare data for analysis.
+Through visualization and exploratory data analysis (EDA), the project identifies trends, patterns, and business insights.
+The results highlight how data-driven decisions can improve sales strategy and regional performance.
+</p>
 
 ---
 
